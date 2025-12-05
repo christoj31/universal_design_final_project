@@ -37,6 +37,7 @@ li {
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
+  font-size: 20px;
 }
 
 p {
@@ -44,6 +45,8 @@ p {
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
+  font-size: 18px;
+
 }
 
 .drop {
