@@ -104,7 +104,13 @@ body {
 
 
 
-
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  text-align: center;
+}
 
 .lab_nav {
   border: 2px solid white;
@@ -112,8 +118,9 @@ body {
   padding: 10px;
   color: white;
   margin-top: 10px;
-  margin: 20px;
+  margin: 5px 10px;
   font-size: 19px;
+  display: inline-block;
 }
 
 .lab_nav:hover {
