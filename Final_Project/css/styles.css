@@ -92,7 +92,7 @@ p {
 
 .dropdown {
   right: 10px;
-  position: absolute;
+  position: static;
   transform: translateY(-100%);
 }
 
