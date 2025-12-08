@@ -54,7 +54,6 @@ p {
 }
 
 .drop {
-  margin-top: 100px;
   background-color: rgb(255, 255, 255);
   color: white;
   padding: 16px;
@@ -93,7 +92,6 @@ p {
 .dropdown {
   right: 10px;
   position: static;
-  transform: translateY(-100%);
 }
 
 .dropdown:hover .drop-content {
